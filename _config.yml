@@ -5,8 +5,8 @@ google_analytics:
 
 title: Cuaderno de escritos
 description: y otras cosas
-url: "said.rocks"
-baseurl: ""
+url: ""
+baseurl: "said.rocks"
 twitter_username: Adalid_Negro
 default_img: 
 
