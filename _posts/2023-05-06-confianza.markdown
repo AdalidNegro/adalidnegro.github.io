@@ -10,11 +10,11 @@ image-sm: https://picsum.photos/500/300?image=1003
 ---
 # Confianza
 
-    Timbro un par de veces y dejó de timbrar.
+    Timbró un par de veces y dejó de timbrar.
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No sucede muy a menudo que me levante tan fácil con el despertador.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;El lunes salí temprano, tenía bastantes cosas por hacer, por lo que salí hacia la ciudad dispuesto con toda la energía posible a acometer tantas tareas como fuera posible. Hace ya bastante tiempo no tomaba el bus que me llevaría y había un poco de morbo al ver la gente subir al bus, era evidente que muschos allí se conocían o al menos se imaginaban, total se veían a diario en el mismo trayecto a la misma hora. En su gesto se notaba que aquel chico sabía donde bajaría aquella chica que al parecer le llamaba la atención.
+    El lunes salí temprano, tenía bastantes cosas por hacer, por lo que salí hacia la ciudad dispuesto con toda la energía posible a acometer tantas tareas como fuera posible. Hace ya bastante tiempo no tomaba el bus que me llevaría y había un poco de morbo al ver la gente subir al bus, era evidente que muschos allí se conocían o al menos se imaginaban, total se veían a diario en el mismo trayecto a la misma hora. En su gesto se notaba que aquel chico sabía donde bajaría aquella chica que al parecer le llamaba la atención.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Al llegar a la urbe, bajé del bus intermunicipal y tomé un taxi que por una larga hora me llevó de un lado a otro permitiendome realizar como si fuera una gesta cada una de las aburridas diligencias que eran menester para esa jornada. El taxista, un señor de unos cincuenta años era simpático y muy amable. Siento que sospechó que me iba a escaquear sin pagarle la primera vez que le pedí esperarme , pero decidió confiar en mí y pues, aseguró su trabajo para todo el día.
 
