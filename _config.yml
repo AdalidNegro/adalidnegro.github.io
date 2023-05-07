@@ -1,13 +1,13 @@
 # Site/SEO settings
-email: 
+email: adalidnegro@gmail.com
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-title: Trophy
-description: 
-url: ""
-baseurl: ""
-twitter_username: 
+title: Cuaderno de escritos
+description: y otras cosas
+url: "said.rocks"
+baseurl: "said.rocks"
+twitter_username: Adalid_Negro
 default_img: 
 
 # Profile settings
