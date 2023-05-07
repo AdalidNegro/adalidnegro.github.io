@@ -24,17 +24,3 @@ Eran las 5 de la tarde y pensaba quedarme en Bogotá, así que le pedí que me l
 Sólo coincomminutos despues noté que mi celular no estaba en mi bolsillo, por lo que lo busqué en mi maleta y en todo lo que traía. Definitivamente no lo tenía pero pues no había problema, había llamado antes de llegar así que el teléfono estaba en el taxi. Solo era llamar y el señor me ayudaría así tuviera que pagarle algo más, llamé a mi propio número.
 Timbro un par de veces y dejó de timbrar.
 A mi me costo 2’200.000 la carrera, el ganó 220.000.
-
-<figure>
-  <img src="https://picsum.photos/2000/1200?image=1003" alt="Placeholder"/>
-</figure>
-
-<blockquote>
-  Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90's.
-  <cite>Man braid</cite>
-</blockquote>
-
-<figure>
-  <img src="https://picsum.photos/2000/1200?image=1003" alt="Placeholder"/>
-  <figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>
-</figure>
